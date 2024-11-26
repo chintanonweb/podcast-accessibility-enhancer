@@ -35,7 +35,7 @@ This project aims to enhance the accessibility of podcasts by providing real-tim
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/podcast-accessibility-enhancer.git
+   git clone https://github.com/chintanonweb/podcast-accessibility-enhancer.git
    cd podcast-accessibility-enhancer
    ```
 
